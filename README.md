@@ -1,9 +1,9 @@
-* Embedded C enthusiast
-* STM32 fanboy
-* RTOSless software groupie
-* Functional Safety fiend
-* Electronics ultra
-* Power Tools devotee
-* Motor control aficionado 
-* Li-Ion lover
-* Atlassian Toolchain worshipper
+* Embedded C Enthusiast
+* STM32 Fanboy
+* RTOSless Software Groupie
+* Functional Safety Fiend
+* Electronics Ultra
+* Power Tools Devotee
+* Motor Control Worshipper 
+* Li-Ion Lover
+* Atlassian Toolchain Aficionado
